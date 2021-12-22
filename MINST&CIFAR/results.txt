@@ -1,0 +1,178 @@
+Starting MINST model
+Mode:  3
+LR:  0.1
+Batch size:  10
+Torch device selected:  cuda
+
+Epoch:  1  of 20
+Train set: Average loss: 1.7112, Accuracy: 17521/60000 (29%)
+Test set: Average loss: 1.4684, Accuracy: 3905/10000 (39%)
+
+Epoch:  2  of 20
+Train set: Average loss: 1.4568, Accuracy: 23281/60000 (39%)
+Test set: Average loss: 1.4370, Accuracy: 3924/10000 (39%)
+
+Epoch:  3  of 20
+Train set: Average loss: 1.4336, Accuracy: 23474/60000 (39%)
+Test set: Average loss: 1.4203, Accuracy: 3950/10000 (40%)
+
+Epoch:  4  of 20
+Train set: Average loss: 1.2129, Accuracy: 29295/60000 (49%)
+Test set: Average loss: 1.1775, Accuracy: 5066/10000 (51%)
+
+Epoch:  5  of 20
+Train set: Average loss: 1.1658, Accuracy: 30248/60000 (50%)
+Test set: Average loss: 1.1870, Accuracy: 5066/10000 (51%)
+
+Epoch:  6  of 20
+Train set: Average loss: 1.1600, Accuracy: 30262/60000 (50%)
+Test set: Average loss: 1.1674, Accuracy: 5077/10000 (51%)
+
+Epoch:  7  of 20
+Train set: Average loss: 1.1539, Accuracy: 30353/60000 (51%)
+Test set: Average loss: 1.1678, Accuracy: 5081/10000 (51%)
+
+Epoch:  8  of 20
+Train set: Average loss: 1.1507, Accuracy: 30366/60000 (51%)
+Test set: Average loss: 1.1676, Accuracy: 5069/10000 (51%)
+
+Epoch:  9  of 20
+Train set: Average loss: 1.1468, Accuracy: 30424/60000 (51%)
+Test set: Average loss: 1.1684, Accuracy: 5082/10000 (51%)
+
+Epoch:  10  of 20
+Train set: Average loss: 1.0253, Accuracy: 33993/60000 (57%)
+Test set: Average loss: 0.9528, Accuracy: 6056/10000 (61%)
+
+Epoch:  11  of 20
+Train set: Average loss: 0.7531, Accuracy: 41198/60000 (69%)
+Test set: Average loss: 0.5331, Accuracy: 7950/10000 (80%)
+
+Epoch:  12  of 20
+Train set: Average loss: 0.4932, Accuracy: 47984/60000 (80%)
+Test set: Average loss: 0.5471, Accuracy: 7920/10000 (79%)
+
+Epoch:  13  of 20
+Train set: Average loss: 0.4782, Accuracy: 48176/60000 (80%)
+Test set: Average loss: 0.5413, Accuracy: 7969/10000 (80%)
+
+Epoch:  14  of 20
+Train set: Average loss: 0.4679, Accuracy: 48263/60000 (80%)
+Test set: Average loss: 0.5260, Accuracy: 7972/10000 (80%)
+
+Epoch:  15  of 20
+Train set: Average loss: 0.4606, Accuracy: 48365/60000 (81%)
+Test set: Average loss: 0.5206, Accuracy: 7989/10000 (80%)
+
+Epoch:  16  of 20
+Train set: Average loss: 0.4602, Accuracy: 48364/60000 (81%)
+Test set: Average loss: 0.5224, Accuracy: 7985/10000 (80%)
+
+Epoch:  17  of 20
+Train set: Average loss: 0.4596, Accuracy: 48389/60000 (81%)
+Test set: Average loss: 0.5094, Accuracy: 8003/10000 (80%)
+
+Epoch:  18  of 20
+Train set: Average loss: 0.4556, Accuracy: 48411/60000 (81%)
+Test set: Average loss: 0.5247, Accuracy: 7983/10000 (80%)
+
+Epoch:  19  of 20
+Train set: Average loss: 0.2412, Accuracy: 54274/60000 (90%)
+Test set: Average loss: 0.1172, Accuracy: 9731/10000 (97%)
+
+Epoch:  20  of 20
+Train set: Average loss: 0.0447, Accuracy: 59321/60000 (99%)
+Test set: Average loss: 0.1233, Accuracy: 9769/10000 (98%)
+accuracy is 97.69
+Training and evaluation finished
+
+################################################################
+
+Starting CIFAR model
+Mode:  3
+LR:  0.1
+Batch size:  50
+Torch device selected:  cuda
+Files already downloaded and verified
+
+Epoch:  1  of 20
+Train set: Average loss: 1.8317, Accuracy: 16407/50000 (33%)
+Test set: Average loss: 1.4990, Accuracy: 4565/10000 (46%)
+
+Epoch:  2  of 20
+Train set: Average loss: 1.3476, Accuracy: 25825/50000 (52%)
+Test set: Average loss: 1.2695, Accuracy: 5574/10000 (56%)
+
+Epoch:  3  of 20
+Train set: Average loss: 1.1671, Accuracy: 29370/50000 (59%)
+Test set: Average loss: 1.1168, Accuracy: 6038/10000 (60%)
+
+Epoch:  4  of 20
+Train set: Average loss: 1.0471, Accuracy: 31724/50000 (63%)
+Test set: Average loss: 1.0242, Accuracy: 6428/10000 (64%)
+
+Epoch:  5  of 20
+Train set: Average loss: 0.9590, Accuracy: 33249/50000 (66%)
+Test set: Average loss: 1.0481, Accuracy: 6348/10000 (63%)
+
+Epoch:  6  of 20
+Train set: Average loss: 0.8862, Accuracy: 34535/50000 (69%)
+Test set: Average loss: 0.9508, Accuracy: 6727/10000 (67%)
+
+Epoch:  7  of 20
+Train set: Average loss: 0.8287, Accuracy: 35513/50000 (71%)
+Test set: Average loss: 1.0408, Accuracy: 6458/10000 (65%)
+
+Epoch:  8  of 20
+Train set: Average loss: 0.7737, Accuracy: 36316/50000 (73%)
+Test set: Average loss: 0.9889, Accuracy: 6667/10000 (67%)
+
+Epoch:  9  of 20
+Train set: Average loss: 0.7269, Accuracy: 37155/50000 (74%)
+Test set: Average loss: 1.0376, Accuracy: 6575/10000 (66%)
+
+Epoch:  10  of 20
+Train set: Average loss: 0.6922, Accuracy: 37851/50000 (76%)
+Test set: Average loss: 1.0394, Accuracy: 6610/10000 (66%)
+
+Epoch:  11  of 20
+Train set: Average loss: 0.6603, Accuracy: 38393/50000 (77%)
+Test set: Average loss: 1.0497, Accuracy: 6605/10000 (66%)
+
+Epoch:  12  of 20
+Train set: Average loss: 0.6290, Accuracy: 38938/50000 (78%)
+Test set: Average loss: 1.1181, Accuracy: 6436/10000 (64%)
+
+Epoch:  13  of 20
+Train set: Average loss: 0.5995, Accuracy: 39410/50000 (79%)
+Test set: Average loss: 1.1300, Accuracy: 6605/10000 (66%)
+
+Epoch:  14  of 20
+Train set: Average loss: 0.5834, Accuracy: 39729/50000 (79%)
+Test set: Average loss: 1.1536, Accuracy: 6591/10000 (66%)
+
+Epoch:  15  of 20
+Train set: Average loss: 0.5633, Accuracy: 40120/50000 (80%)
+Test set: Average loss: 1.1987, Accuracy: 6553/10000 (66%)
+
+Epoch:  16  of 20
+Train set: Average loss: 0.5441, Accuracy: 40387/50000 (81%)
+Test set: Average loss: 1.2196, Accuracy: 6562/10000 (66%)
+
+Epoch:  17  of 20
+Train set: Average loss: 0.5335, Accuracy: 40588/50000 (81%)
+Test set: Average loss: 1.3993, Accuracy: 6301/10000 (63%)
+
+Epoch:  18  of 20
+Train set: Average loss: 0.5276, Accuracy: 40682/50000 (81%)
+Test set: Average loss: 1.2628, Accuracy: 6590/10000 (66%)
+
+Epoch:  19  of 20
+Train set: Average loss: 0.5152, Accuracy: 40961/50000 (82%)
+Test set: Average loss: 1.3295, Accuracy: 6409/10000 (64%)
+
+Epoch:  20  of 20
+Train set: Average loss: 0.5023, Accuracy: 41176/50000 (82%)
+Test set: Average loss: 1.3481, Accuracy: 6414/10000 (64%)
+accuracy is 67.27
+Training and evaluation finished
